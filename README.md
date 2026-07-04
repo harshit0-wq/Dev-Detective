@@ -6,7 +6,7 @@ The project intentionally uses Vanilla JavaScript to establish a strong understa
 
 ## Live Deployment
 
-**🚀 Live Demo:** [Add Deployment URL Here]
+**🚀 Live Demo:** https://dev-detective-beta-topaz.vercel.app/
 
 
 ---
